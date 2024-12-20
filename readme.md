@@ -12,6 +12,8 @@ npx expo install expo-av
 #DOCUMENTATION 
 https://www.youtube.com/watch?v=2qCmRJz3NOE
 
+https://www.youtube.com/watch?v=4XAeL306aOM (Bu Daha İyi Duruyor !!!)
+
 //--------------------------------------------Google Map
 npx expo install react-native-maps
 //--------------------------------------------Calendar
