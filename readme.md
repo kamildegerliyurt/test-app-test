@@ -12,6 +12,7 @@ npx expo install expo-av
 #DOCUMENTATION 
 https://www.youtube.com/watch?v=2qCmRJz3NOE
 
+#DOCUMENTATION 2
 https://www.youtube.com/watch?v=4XAeL306aOM (Bu Daha İyi Duruyor !!!)
 
 //--------------------------------------------Google Map
